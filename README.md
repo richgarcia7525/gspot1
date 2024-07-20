@@ -1,1 +1,1 @@
-# gspot1
+# Exotic Dancing Auction Site
